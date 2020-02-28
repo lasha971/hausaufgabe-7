@@ -1,0 +1,46 @@
+li{
+	display: inline-block;
+}
+.left{
+	float: left;
+	margin-left: 50px;
+}
+.right{
+	float: right;
+	margin-right: 50px;
+}
+.marglft{
+	margin-left: 50px;
+}
+.margrght{
+	margin-right: 50px;
+}
+.dot{
+ height: 10px;
+  width: 10px;
+  background-color: aqua;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 10px;
+}
+header{
+	background-color: white;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	padding: 20px;
+}
+.relative{
+	position: relative;
+	width: 1315px;
+	margin-top: 70px;
+    margin-left: 20px;
+}
+section{
+	background-color: lightgrey;
+}
+.absolute{
+	position: absolute;
+	
+}
